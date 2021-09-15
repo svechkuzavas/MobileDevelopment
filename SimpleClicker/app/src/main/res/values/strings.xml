@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleClicker</string>
+    <string name="start_text">Кликов: 0</string>
+    <string name="increase">Увеличить</string>
+    <string name="decrease">Уменьшить</string>
+    <string name="reset">Обнулить</string>
+    <string name="clicks">Кликов: </string>
+</resources>
