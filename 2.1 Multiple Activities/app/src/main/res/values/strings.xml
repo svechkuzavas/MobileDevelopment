@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multiple Activities App</string>
+    <string name="act_1">Go to activity 1</string>
+    <string name="act_2">Go to activity 2</string>
+    <string name="act_3">Go to activity 3</string>
+    <string name="act_4">Go to activity 4</string>
+    <string name="info">Use menu to switch activities</string>
+    <string name="lb_act_1">This is activity 1</string>
+    <string name="lb_act_2">This is activity 2</string>
+    <string name="lb_act_3">This is activity 3</string>
+    <string name="lb_act_4">This is activity 4</string>
+</resources>
