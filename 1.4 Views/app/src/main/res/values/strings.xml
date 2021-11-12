@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="initial_text">Who is learning Android development?</string>
+    <string name="question_template">is learning Android development.</string>
+    <string name="btn_text">Update the TextView</string>
+</resources>
